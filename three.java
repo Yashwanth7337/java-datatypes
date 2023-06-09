@@ -7,10 +7,11 @@ class three
 
         long d=45625446456l;
         float f=455464.16577974f;
-
+       boolean a=true;
         System.out.println(c);
         System.out.println(str);
         System.out.println(d);
         System.out.println(f);
+        System.out.println(a);
     }
 }
